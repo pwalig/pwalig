@@ -1,7 +1,20 @@
-## Hi there 👋
+## Hello there 👋
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pwalig&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![Stats](https://github-readme-stats.vercel.app/api?username=pwalig&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+**Game Development** 🎮 and **Computer Graphics** enjoyer,  
+**Computer Science** Student at **Poznan University of Technology**.
+
+- 🔭 I’m currently working on my new videogame
+- 🌱 I’m currently learning Vulkan
+- 💬 Ask me about 🎨 art and 🏀 trick dunks
+
+<details>
+<summary>
+  More
+</summary>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pwalig&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=pwalig&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Languages
 
@@ -32,7 +45,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Profiles
+<!--
+## Socials
 
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
@@ -43,7 +57,7 @@
 ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
-<!--
+
 **pwalig/pwalig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
