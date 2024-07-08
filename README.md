@@ -1,10 +1,10 @@
 ## Hello there 👋
 
 **Game Development** 🎮 and **Computer Graphics** enjoyer,  
-**Computer Science** Student at **Poznan University of Technology**.
+**Computer Science** Student at [**Poznan University of Technology**](https://put.poznan.pl/en).
 
-- 🔭 I’m currently working on my new videogame
-- 🌱 I’m currently learning Vulkan
+- 🔭 I’m currently working on [my new videogame](https://github.com/pwalig/3D-FPS-OpenGL)
+- 🌱 I’m currently learning [Vulkan](https://www.vulkan.org/)
 - 💬 Ask me about 🎨 art and 🏀 trick dunks
 
 <details>
