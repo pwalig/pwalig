@@ -8,9 +8,7 @@
 - 💬 Ask me about 🎨 art and 🏀 trick dunks
 
 <details>
-<summary>
-  More
-</summary>
+<summary>More</summary>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pwalig&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Stats](https://github-readme-stats.vercel.app/api?username=pwalig&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -44,6 +42,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</details>
 
 <!--
 ## Socials
