@@ -16,19 +16,23 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pwalig&theme=transparent&layout=compact&show_icons=true" />
 </a>
 
+---
+
 <a href="https://git.io/streak-stats">
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=pwalig&theme=transparent" />
 </a>
+
+---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwalig&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+---
+
 <a href="https://github.com/HwangTaehyun/github-repository-contribution-stats">
   <img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=pwalig&theme=transparent&layout=compact" />
 </a>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pwalig.pwalig)
 
 
 ## Languages
