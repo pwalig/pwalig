@@ -4,14 +4,31 @@
 **Computer Science** Student at [**Poznan University of Technology**](https://put.poznan.pl/en).
 
 - 🔭 I’m currently working on [my new videogame](https://github.com/pwalig/3D-FPS-OpenGL)
-- 🌱 I’m currently learning [Vulkan](https://www.vulkan.org/)
+- 🌱 I’m currently learning [OpenGL](https://www.opengl.org/) and [Vulkan](https://www.vulkan.org/)
 - 💬 Ask me about 🎨 art and 🏀 trick dunks
 
 <details>
 <summary>More</summary>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pwalig&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Stats](https://github-readme-stats.vercel.app/api?username=pwalig&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pwalig&theme=transparent&layout=compact&show_icons=true" />
+</a>
+
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=pwalig&theme=transparent" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwalig&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<a href="https://github.com/HwangTaehyun/github-repository-contribution-stats">
+  <img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=pwalig&theme=transparent&layout=compact" />
+</a>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pwalig.pwalig)
 
 
 ## Languages
@@ -24,7 +41,7 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## Frameworks
+## Frameworks / Libraries / Technologies
 
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white&style=for-the-badge)
