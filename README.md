@@ -3,8 +3,8 @@
 **Game Development** 🎮 and **Computer Graphics** enjoyer,  
 **Computer Science** Student at [**Poznan University of Technology**](https://put.poznan.pl/en).
 
-- 🔭 I’m currently working on [my new videogame](https://github.com/pwalig/3D-FPS-OpenGL)
-- 🌱 I’m currently learning [OpenGL](https://www.opengl.org/) and [Vulkan](https://www.vulkan.org/)
+- 🔭 I’m currently working on [3D file conversion utility](https://github.com/pwalig/mesh-compiler), [rts game with server based multiplayer](https://github.com/pwalig/mini-RTS-server) and a bunch of other projects.
+- 🌱 I’m currently learning [zig programming language](https://ziglang.org/)
 - 💬 Ask me about 🎨 art and 🏀 trick dunks
 
 <details>
@@ -38,17 +38,21 @@
 ## Languages
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-## Frameworks / Libraries / Technologies
+## Frameworks / Libraries / Technologies / Utilities
 
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white&style=for-the-badge)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ## Tools and IDEs
 
