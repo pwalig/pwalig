@@ -3,7 +3,7 @@
 **Game Development** 🎮 and **Computer Graphics** enjoyer,  
 **Computer Science** Student at [**Poznan University of Technology**](https://put.poznan.pl/en).
 
-- 🔭 I’m currently working on [3D file conversion utility](https://github.com/pwalig/mesh-compiler), [rts game with server based multiplayer](https://github.com/pwalig/mini-RTS-server) and a bunch of other projects.
+- 🔭 I’m currently working on [rts game with server based multiplayer](https://github.com/pwalig/mini-RTS-server)
 - 🌱 I’m currently learning [zig programming language](https://ziglang.org/)
 - 💬 Ask me about 🎨 art and 🏀 trick dunks
 
@@ -77,6 +77,8 @@
 ## More Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwalig&repo=mini-RTS-zig-bot&theme=transparent)](https://github.com/pwalig/mini-RTS-zig-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mudziok&repo=rpg-multiplayer-event-2&theme=transparent&show_owner=true)](https://github.com/mudziok/rpg-multiplayer-event-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwalig&repo=mini-RTS-godot-client&theme=transparent)](https://github.com/pwalig/mini-RTS-godot-client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mm-102&repo=SI-L11-GameDesgin&theme=transparent&show_owner=true)](https://github.com/mm-102/SI-L11-GameDesgin)
 </details>
 
 <!--
