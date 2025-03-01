@@ -4,7 +4,7 @@
 **Computer Science** Student at [**Poznan University of Technology**](https://put.poznan.pl/en).
 
 - 🔭 I’m currently working on [bullet waste](https://storkstudios.itch.io/bullet-waste)
-- 🌱 I’m currently learning [zig programming language](https://ziglang.org/)
+- 🌱 I’m currently learning [CMake build system](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
 - 💬 Ask me about 🎨 art and 🏀 trick dunks
 
 <details>
