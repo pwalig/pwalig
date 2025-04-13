@@ -74,6 +74,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@p_walig)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://p-walig.itch.io/)
 
+## Projects
 </details>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwalig&repo=mini-RTS-zig-bot&theme=transparent)](https://github.com/pwalig/mini-RTS-zig-bot)
