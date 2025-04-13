@@ -74,12 +74,12 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@p_walig)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://p-walig.itch.io/)
 
-## More Projects
+</details>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwalig&repo=mini-RTS-zig-bot&theme=transparent)](https://github.com/pwalig/mini-RTS-zig-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mudziok&repo=rpg-multiplayer-event-2&theme=transparent&show_owner=true)](https://github.com/mudziok/rpg-multiplayer-event-2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwalig&repo=mini-RTS-godot-client&theme=transparent)](https://github.com/pwalig/mini-RTS-godot-client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mm-102&repo=SI-L11-GameDesgin&theme=transparent&show_owner=true)](https://github.com/mm-102/SI-L11-GameDesgin)
-</details>
 
 <!--
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
