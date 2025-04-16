@@ -38,21 +38,22 @@
 ## Languages
 
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)](https://ziglang.org/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 
 ## Frameworks / Libraries / Technologies / Utilities
 
 [![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)](https://www.opengl.org/)
+[![Vulkan API](https://img.shields.io/badge/Vulkan-AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white&logoSize=auto)](https://www.vulkan.org/)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white&style=for-the-badge)](https://developer.android.com/compose)
 [![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org/)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://www.raspberrypi.com/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
 
 ## Tools and IDEs
 
@@ -79,7 +80,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwalig&repo=mini-RTS-zig-bot&theme=transparent)](https://github.com/pwalig/mini-RTS-zig-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mudziok&repo=rpg-multiplayer-event-2&theme=transparent&show_owner=true)](https://github.com/mudziok/rpg-multiplayer-event-2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwalig&repo=mini-RTS-godot-client&theme=transparent)](https://github.com/pwalig/mini-RTS-godot-client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwalig&repo=graphsack&theme=transparent)](https://github.com/pwalig/graphsack)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mm-102&repo=SI-L11-GameDesgin&theme=transparent&show_owner=true)](https://github.com/mm-102/SI-L11-GameDesgin)
 
 <!--
