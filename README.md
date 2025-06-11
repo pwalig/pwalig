@@ -94,7 +94,7 @@ and 🎓 **Computer Science** Student at [**Poznan University of Technology**](h
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwalig&repo=mini-RTS-zig-bot&theme=transparent)](https://github.com/pwalig/mini-RTS-zig-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwalig&repo=mini-RTS-server&theme=transparent)](https://github.com/pwalig/mini-RTS-server)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwalig&repo=graphsack&theme=transparent)](https://github.com/pwalig/graphsack)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwalig&repo=pwalig.github.io&theme=transparent&)](https://github.com/mm-102/SI-L11-GameDesgin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwalig&repo=pwalig.github.io&theme=transparent&)](https://github.com/pwalig/pwalig.github.io)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mm-102&repo=SI-L11-GameDesgin&theme=transparent&show_owner=true)](https://github.com/mm-102/SI-L11-GameDesgin) -->
 </details>
 
