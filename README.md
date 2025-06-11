@@ -1,9 +1,11 @@
 ## Hello there 👋
 
-Aspiring **🖥 Graphics Programmer**, *🎨 Digital Art Hobbyist* and **Computer Science** Student at [**Poznan University of Technology**](https://put.poznan.pl/en).
+Hi! I'm Paweł. I am an aspiring 🖥 **Graphics Programmer**, 🎨 *Digital Art Hobbyist*  
+and 🎓 **Computer Science** Student at [**Poznan University of Technology**](https://put.poznan.pl/en).
 
 - 📐 I’m currently working on [bullet waste](https://storkstudios.itch.io/bullet-waste), [CPU rasterizer](https://github.com/pwalig/rasterizer) and [my personal website](https://pwalig.github.io/)
-- 📚 I’m currently learning [Vulkan](https://www.vulkan.org/)
+- 💻 My programming language of choice is **C++**
+- 📚 I’m currently learning [Vulkan](https://www.vulkan.org/) and [Rust](https://www.rust-lang.org/)
 - 💬 Ask me about 🎨 art and 🏀 trick dunks
 
 ## 📜 Skills
@@ -18,7 +20,7 @@ Aspiring **🖥 Graphics Programmer**, *🎨 Digital Art Hobbyist* and **Compute
 [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+[![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 
 ### Graphics / GPGPU
