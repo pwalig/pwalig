@@ -7,27 +7,6 @@
 - 🌱 I’m currently learning [Vulkan](https://www.vulkan.org/)
 - 💬 Ask me about 🎨 art and 🏀 trick dunks
 
-<details>
-<summary>More</summary>
-
-## 📊 Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pwalig&theme=transparent&layout=compact&show_icons=true" />
-</a>
-
-<a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=pwalig&theme=transparent" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwalig&theme=transparent&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<a href="https://github.com/HwangTaehyun/github-repository-contribution-stats">
-  <img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=pwalig&theme=transparent&layout=compact" />
-</a>
-
 ## 📜 Skills
 
 ### Programming languages
@@ -80,18 +59,43 @@
 
 ## 📫 Contacts and Socials
 
+[🌐 website](http://pwalig.github.io/) · [📧 gmail](mailto:pwalig03@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/pwalig/) · [💻 GitHub](https://github.com/pwalig) · [🎮 itch.io](https://p-walig.itch.io/) · [🎨 artstation](https://www.artstation.com/p_walig)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pwalig03@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/p_walig/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@p_walig)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://p-walig.itch.io/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pwalig/)
+
+<details>
+<summary>More</summary>
+  
+## 📊 Stats
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=pwalig&theme=transparent&layout=compact&show_icons=true" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height=150 align="center" src="https://streak-stats.demolab.com/?user=pwalig&theme=transparent" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwalig&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+  </a>
+  <a href="https://github.com/HwangTaehyun/github-repository-contribution-stats">
+    <img height=150 align="center" src="https://github-contributor-stats.vercel.app/api?username=pwalig&theme=transparent&layout=compact" />
+  </a>
+</p>
 
 ## 💻 Projects
-</details>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwalig&repo=mini-RTS-zig-bot&theme=transparent)](https://github.com/pwalig/mini-RTS-zig-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwalig&repo=mini-RTS-server&theme=transparent)](https://github.com/pwalig/mini-RTS-server)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwalig&repo=graphsack&theme=transparent)](https://github.com/pwalig/graphsack)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pwalig&repo=pwalig.github.io&theme=transparent&)](https://github.com/mm-102/SI-L11-GameDesgin)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mm-102&repo=SI-L11-GameDesgin&theme=transparent&show_owner=true)](https://github.com/mm-102/SI-L11-GameDesgin) -->
+</details>
 
 <!--
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
