@@ -1,10 +1,9 @@
 ## Hello there 👋
 
-**Game Development** 🎮 and **Computer Graphics** enjoyer,  
-**Computer Science** Student at [**Poznan University of Technology**](https://put.poznan.pl/en).
+Aspiring **🖥 Graphics Programmer**, *🎨 Digital Art Hobbyist* and **Computer Science** Student at [**Poznan University of Technology**](https://put.poznan.pl/en).
 
-- 🔭 I’m currently working on [bullet waste](https://storkstudios.itch.io/bullet-waste)
-- 🌱 I’m currently learning [Vulkan](https://www.vulkan.org/)
+- 📐 I’m currently working on [bullet waste](https://storkstudios.itch.io/bullet-waste), [CPU rasterizer](https://github.com/pwalig/rasterizer) and [my personal website](https://pwalig.github.io/)
+- 📚 I’m currently learning [Vulkan](https://www.vulkan.org/)
 - 💬 Ask me about 🎨 art and 🏀 trick dunks
 
 ## 📜 Skills
