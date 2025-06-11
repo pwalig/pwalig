@@ -25,10 +25,10 @@ and 🎓 **Computer Science** Student at [**Poznan University of Technology**](h
 
 ### Graphics / GPGPU
 
-[![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)](https://www.opengl.org/)
-[![GLSL](https://img.shields.io/badge/GLSL-5586A4?logo=opengl&logoColor=white&style=for-the-badge)](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL))
+[![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoSize=auto)](https://www.opengl.org/)
+[![GLSL](https://img.shields.io/badge/GLSL-5586A4?logo=opengl&logoColor=white&style=for-the-badge&logoSize=auto)](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL))
 [![Vulkan API](https://img.shields.io/badge/Vulkan-AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white&logoSize=auto)](https://www.vulkan.org/)
-[![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white&style=for-the-badge)](https://developer.nvidia.com/cuda-toolkit)
+[![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white&style=for-the-badge&logoSize=auto)](https://developer.nvidia.com/cuda-toolkit)
 [![Three.js](https://img.shields.io/badge/Three.js-000000?logo=Three.js&logoColor=white&style=for-the-badge)](https://threejs.org/)
 
 ### Mobile
