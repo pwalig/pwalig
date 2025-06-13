@@ -59,8 +59,8 @@ and 🎓 **Computer Science** Student at [**Poznan University of Technology**](h
 --->
 
 ## 📫 Contacts and Socials
-
-[🌐 website](http://pwalig.github.io/) · [📧 gmail](mailto:pwalig03@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/pwalig/) · [💻 GitHub](https://github.com/pwalig) · [🎮 itch.io](https://p-walig.itch.io/) · [🎨 artstation](https://www.artstation.com/p_walig)
+E-mail: [pwalig03@gmail.com](mailto:pwalig03@gmail.com)  
+[🌐 website](http://pwalig.github.io/) · [💼 LinkedIn](https://www.linkedin.com/in/pwalig/) · [💻 GitHub](https://github.com/pwalig) · [🎮 itch.io](https://p-walig.itch.io/) · [🎨 artstation](https://www.artstation.com/p_walig)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pwalig03@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/p_walig/)
