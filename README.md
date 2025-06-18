@@ -31,6 +31,16 @@ and 🎓 **Computer Science** Student at [**Poznan University of Technology**](h
 [![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white&style=for-the-badge&logoSize=auto)](https://developer.nvidia.com/cuda-toolkit)
 [![Three.js](https://img.shields.io/badge/Three.js-000000?logo=Three.js&logoColor=white&style=for-the-badge)](https://threejs.org/)
 
+
+### Web
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?logo=Three.js&logoColor=white&style=for-the-badge)](https://threejs.org/)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
 ### Mobile
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
