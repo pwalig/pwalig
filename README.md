@@ -3,7 +3,7 @@
 Hi! I'm Paweł. I am an aspiring 🖥 **Graphics Programmer**, 🎨 *Digital Art Hobbyist*  
 and 🎓 **Computer Science** Student at [**Poznan University of Technology**](https://put.poznan.pl/en).
 
-- 📐 I’m currently working on [bullet waste](https://storkstudios.itch.io/bullet-waste), [CPU rasterizer](https://github.com/pwalig/rasterizer) and [my personal website](https://pwalig.github.io/)
+- 📐 I’m currently working on [bullet waste](https://storkstudios.itch.io/bullet-waste) and [CPU rasterizer](https://github.com/pwalig/rasterizer)
 - 💻 My programming language of choice is **C++**
 - 📚 I’m currently learning [Vulkan](https://www.vulkan.org/) and [Rust](https://www.rust-lang.org/)
 - 💬 Ask me about 🎨 art and 🏀 trick dunks
@@ -31,16 +31,6 @@ and 🎓 **Computer Science** Student at [**Poznan University of Technology**](h
 [![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white&style=for-the-badge&logoSize=auto)](https://developer.nvidia.com/cuda-toolkit)
 [![Three.js](https://img.shields.io/badge/Three.js-000000?logo=Three.js&logoColor=white&style=for-the-badge)](https://threejs.org/)
 
-
-### Web
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-[![Three.js](https://img.shields.io/badge/Three.js-000000?logo=Three.js&logoColor=white&style=for-the-badge)](https://threejs.org/)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-
 ### Mobile
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
@@ -60,6 +50,12 @@ and 🎓 **Computer Science** Student at [**Poznan University of Technology**](h
 [![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)](https://developer.android.com/studio)
 
 <!---
+### Web
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?logo=Three.js&logoColor=white&style=for-the-badge)](https://threejs.org/)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ### Other
 [![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org/)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://www.raspberrypi.com/)
